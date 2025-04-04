@@ -22,7 +22,7 @@ waze-customer-churn/
 ├── data/ # Contains the Waze user dataset (.csv)
 ├── docs/ # For documentation and supporting files
 ├── notebooks/ # Jupyter notebooks for analysis and modeling
-│  ├── 0_raw_course_notebooks/ # Archived course notebooks
+│  ├── 0_archive_raw_notebooks/ # Archived course notebooks
 │  └── waze_churn_final.ipynb # Main polished notebook
 ├── visuals/ # Exported visuals (plots, charts)
 └── README.md # Project overview and documentation
@@ -49,7 +49,8 @@ The project follows the PACE framework taught in the Google certification:
 | Random Forest       | 82.2%    | 0.07           | 0.12             |
 | **XGBoost**         | 74.3%    | **0.38**       | **0.35**         |
 
-✅ XGBoost outperformed other models in identifying churners.
+
+**XGBoost outperformed other models in identifying churners.**
 
 ---
 
@@ -89,6 +90,7 @@ This project was developed as part of the **Google Advanced Data Analytics Profe
 - Course 5: Regression Modeling  
 - Course 6: Machine Learning
 
+-> View the full certification [here](https://www.coursera.org/professional-certificates/google-advanced-data-analytics)
 ---
 
 ## Notebook Preview

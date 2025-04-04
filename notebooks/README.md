@@ -1,1 +1,4 @@
-You will find the completed notebook here. Or please visit my [home page](https://github.com/venugvis) to navigate other projects.
+# 📁 notebooks/
+
+- `waze_churn_final.ipynb`: **Main portfolio notebook**
+- `0_archive_raw_notebooks/`: Original raw notebooks from individual Google certificate courses (archived for reference)
