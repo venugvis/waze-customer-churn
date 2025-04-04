@@ -17,21 +17,16 @@ Waze wants to improve user retention by identifying users likely to stop using t
 
 ---
  ## 📁 Repository Structure
-  
-  ```
+<pre lang="markdown">
 waze-customer-churn/
-├── data/ # Contains the Waze user dataset (.csv) 
+├── data/ # Contains the Waze user dataset (.csv)
 ├── docs/ # For documentation and supporting files
 ├── notebooks/ # Jupyter notebooks for analysis and modeling
-          │
-          ├── 0_raw_course_notebooks/ # Archived course notebooks
-          │
-          └── waze_churn_final.ipynb # Main polished notebook
-
+│  ├── 0_raw_course_notebooks/ # Archived course notebooks
+│  └── waze_churn_final.ipynb # Main polished notebook
 ├── visuals/ # Exported visuals (plots, charts)
 └── README.md # Project overview and documentation
-```
-
+</pre>
 
 ---
 
