@@ -1,4 +1,5 @@
-# Waze Churn Prediction Project
+# <u>Waze Churn Prediction Project</u>
+![Waze Logo](https://upload.wikimedia.org/wikipedia/commons/3/37/Waze_logo_2022.png)
 
 **Status:** Completed | **Role:** Data Analyst (Simulation)  
 **Certification:** Google Advanced Data Analytics Professional Certificate (Course 1–6)
@@ -103,5 +104,3 @@ This project was developed as part of the **Google Advanced Data Analytics Profe
 
 Made by [Vishnu Venugopal](https://www.linkedin.com/in/venugvis)  
 Reach out for feedback or collaboration!
-
-venugvis/waze-customer-churn/README.md
