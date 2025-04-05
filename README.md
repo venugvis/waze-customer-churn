@@ -1,5 +1,5 @@
 # <u>Waze Churn Prediction Project</u>
-![Waze Logo](https://upload.wikimedia.org/wikipedia/commons/3/37/Waze_logo_2022.png)
+![waze logo](notebooks/assets/sddefault.jpg)
 
 **Status:** Completed | **Role:** Data Analyst (Simulation)  
 **Certification:** Google Advanced Data Analytics Professional Certificate (Course 1–6)
